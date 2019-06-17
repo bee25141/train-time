@@ -8,12 +8,12 @@ The user adds a train in the input fields, and upon submission the train data is
 The game is currently deployed on GitHub pages @ https://bee25141.github.io/train-time/
 
 # Built With
-Firebase - Database platform used
-Bootstrap - The CSS framework used
-jQuery
-JavaScript
-CSS
-HTML
+Firebase - Database platform used <br>
+Bootstrap - The CSS framework used <br>
+jQuery <br>
+JavaScript <br>
+CSS <br>
+HTML <br>
 
 # Authors
 Tony Bee
